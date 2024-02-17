@@ -20,4 +20,4 @@ function words(name,age,proffesion){
     var result = " ";
     return result;
 }
-console.log("Messi","36","football player" );
+console.logwords(("Messi","36","football player" ));
