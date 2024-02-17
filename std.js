@@ -16,6 +16,8 @@ else{
     nofree();
 } */
 
-var mystr = "jello";
-mystr[0] = "H";
-console.log(mystr);
+function words(name,age,proffesion){
+    var result = " ";
+    return result;
+}
+console.log("Messi","36","football player" );
